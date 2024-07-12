@@ -10,7 +10,7 @@
 
 
 ## Introduction
-[This task requires us to work in a team to contribute to an open-source project by designing API and database. Here’s a step-by-step breakdown of what we did:]
+This task requires us to work in a team to contribute to an open-source project by designing API and database. Here’s a step-by-step breakdown of what we did:
 
 ## API Design
 We created a complete and detailed API design documented using OpenAPI. Here is the [Link](https://app.swaggerhub.com/apis-docs/ISRAELBOLUWATIFE17/hng-task/0.1.0#/Auth/signup)
@@ -67,7 +67,7 @@ We created a complete and detailed API design documented using OpenAPI. Here is 
 ## Database Design
 
 ### Entity-Relationship Diagram
-![Image](./dbdesign-image/dbdesign.png)
+`![Image](./dbdesign-image/dbdesign.png)`
 
 ### Table Schemas
 - Table Name: users
