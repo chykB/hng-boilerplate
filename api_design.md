@@ -16,7 +16,7 @@ This task requires us to work in a team to contribute to an open-source project 
 We created a complete and detailed API design documented using OpenAPI. Here is the [Link](https://app.swaggerhub.com/apis-docs/ISRAELBOLUWATIFE17/hng-task/0.1.0#/Auth/signup)
 
 ### Endpoints Overview
-[Here is the list of all the API endpoints:]
+Here is the list of all the API endpoints:
 
 
 #### Create User
@@ -67,7 +67,7 @@ We created a complete and detailed API design documented using OpenAPI. Here is 
 ## Database Design
 
 ### Entity-Relationship Diagram
-`![Image](./dbdesign-image/dbdesign.png)`
+![Image](./dbdesign-image/dbdesign.png)
 
 ### Table Schemas
 - Table Name: users
